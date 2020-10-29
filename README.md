@@ -5,3 +5,5 @@
 ## https://www.codecademy.com/learn/learn-ruby
 
 ## https://www.codecademy.com/learn/learn-rails
+## Courses
+### https://app.pluralsight.com/search/?q=ruby
