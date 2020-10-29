@@ -7,3 +7,4 @@
 ## https://www.codecademy.com/learn/learn-rails
 ## Courses
 ### https://app.pluralsight.com/search/?q=ruby
+### https://www.sololearn.com/Profile/123361/Ruby
