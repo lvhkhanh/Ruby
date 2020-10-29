@@ -6,6 +6,6 @@
 
 ## https://www.codecademy.com/learn/learn-rails
 ## Courses
-### https://www.udacity.com/course/the-mvc-pattern-in-ruby--ud270 1w
 ### https://app.pluralsight.com/search/?q=ruby
+- [x] https://www.udacity.com/course/the-mvc-pattern-in-ruby--ud270 1w
 - [x] https://www.sololearn.com/Profile/123361/Ruby
